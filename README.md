@@ -2,6 +2,7 @@
 
 # 💫 About Me:
 🎓 Computer Science in Game Development student @ APU <br>🧠 Fullstack Developer in AI @ NUS <br>🏢 Fullstack & Software Developer </br>🏅 Sports, Games, Music, and my faith in God keeps me going! </br>
+Student GitHub user! Excuse the inactivity 😂</br>
 
 
 ## 🌐 Socials:
